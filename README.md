@@ -1,1 +1,2 @@
-# Boaz_NLP_study > cs224n_pytorch
+# cs224n study
+University of Stanford lecture, cs224n
